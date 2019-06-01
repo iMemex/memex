@@ -1,6 +1,6 @@
 # [memex](https://web.mit.edu/STS.035/www/PDFs/think.pdf)
 
-> "Consider a future device for individual use, and which is a sort of mechanized fine and library. It needs a name, and to coin one at random, "memex" will do. A memex is a device in which an individual stores all his books, records and communications, and which is mechanized so that it can be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory."
+> "Consider a future device for individual use, and which is a sort of mechanized file and library. It needs a name, and to coin one at random, "memex" will do. A memex is a device in which an individual stores all his books, records and communications, and which is mechanized so that it can be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory."
 
 # [distributed](https://github.com/ipfs/roadmap#-personal-web-d3-e4-i2)
 > Personal data and programs are under user control
