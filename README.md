@@ -7,7 +7,7 @@
 
 > "The memex becomes reality. The web becomes a drastically more personal thing. Users' data and exploration is under the users' control -- similar to how a "personal computer" is under the user's control, and "the cloud" is not. Users decide which apps and other people get access to their data. Explorations can be recorded for the user in memex fashion. The user gets to keep copies of all the data they have observed through the web. A self-archiving personal record forms, which the user can always go back to, explore, and use -- whether or not those applications are still in development by their authors."
 
-# Super Nerd Space, for short, SNS
+# [sns](https://github.com/snspace/sns)
 
 > __"Computing is not {only} about computers anymore. It is {also} about living."__   
 > -- Nicholas Negroponte, Being Digital, 1995
