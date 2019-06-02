@@ -13,3 +13,6 @@
 > -- Nicholas Negroponte, Being Digital, 1995
 
 > __"SNS would, should and ought to be something as _personal global infrastructure_, a solid foundation and great companion to _digital global nomads_."__
+
+---
+![memex@sns](memex@sns.png)
