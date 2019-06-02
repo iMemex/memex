@@ -2,6 +2,11 @@
 
 > "Consider a future device for individual use, and which is a sort of mechanized file and library. It needs a name, and to coin one at random, "memex" will do. A memex is a device in which an individual stores all his books, records and communications, and which is mechanized so that it can be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory."
 
+> :eyes:
+- [Memex World](https://memex.world/)
+- [Building a Memex](https://hyfen.net/memex/) by [Andrew Louis](https://github.com/hyfen)
+- [DARPA Memex Catalog](https://www.darpa.mil/opencatalog?ocSearch=memex&sort=title&ocFilter=software)
+
 # [distributed](https://github.com/ipfs/roadmap#-personal-web-d3-e4-i2)
 > Personal data and programs are under user control
 
